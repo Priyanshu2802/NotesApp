@@ -3,8 +3,8 @@ Notes App using Node.js
 
 # Steps to run the App
 
-1.Download the File
-2.Open in the Code editor
+1. Download the File
+2. Open in the Code editor
 3. Use command *npm install* to install the node modules
 4. Now, use following commands as per your requirement
 ## for adding a New Note
